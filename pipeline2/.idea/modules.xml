@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Executer/Executer.iml" filepath="$PROJECT_DIR$/Executer/Executer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grammar/Grammar.iml" filepath="$PROJECT_DIR$/Grammar/Grammar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manager/Manager.iml" filepath="$PROJECT_DIR$/Manager/Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reader/Reader.iml" filepath="$PROJECT_DIR$/Reader/Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Writter/Writter.iml" filepath="$PROJECT_DIR$/Writter/Writter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function_for_projects/function_for_projects.iml" filepath="$PROJECT_DIR$/function_for_projects/function_for_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pipeline2.iml" filepath="$PROJECT_DIR$/.idea/pipeline2.iml" />
+    </modules>
+  </component>
+</project>

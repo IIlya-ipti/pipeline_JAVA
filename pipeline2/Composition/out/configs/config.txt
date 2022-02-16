@@ -1,0 +1,31 @@
+
+// out and input files
+code --         source--
+OUTPUT          out/resourse/out.txt
+INPUT           out/resourse/text.txt
+
+// classes for working with
+code  --        name class--        source--                             ID--
+READER_CLASS    reader.Reader       out/resourse/Reader.jar              READER
+WRITER_CLASS    Writter.Writter     out/resourse/Writter.jar             WRITER
+EXECUTERS       Executer.Executer   out/resourse/Executer.jar            EXECUTER1
+EXECUTERS       Executer.Executer   out/resourse/Executer.jar            EXECUTER2
+
+
+// position
+code --         position--          ID--
+POSITION        0                   EXECUTER1
+POSITION        1                   EXECUTER1
+POSITION        4                   EXECUTER2
+POSITION        5                   EXECUTER2
+POSITION        9                   EXECUTER2
+POSITION        10                  EXECUTER2
+
+
+
+// configs
+code --        ID--                 source--
+CONFIG         EXECUTER1            out/configs/config_executer.txt
+CONFIG         EXECUTER2            out/configs/config_executer_2.txt
+CONFIG         READER               out/configs/config_reader.txt
+CONFIG         WRITER               out/configs/config_writer.txt

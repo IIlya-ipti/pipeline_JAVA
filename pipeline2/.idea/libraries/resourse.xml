@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="resourse">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Composition/out/resourse/executor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Composition/out/resourse/Executer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Composition/out/resourse/Writter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Composition/out/resourse/Reader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

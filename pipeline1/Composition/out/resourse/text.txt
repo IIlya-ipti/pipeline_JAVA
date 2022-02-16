@@ -1,0 +1,30 @@
+
+OUTPUT src/text2.txt
+READER_CLASS reader.Reader out/artifacts
+WRITER_CLASS writer.Writter out/artifacts
+POSITION 1 execuder.Executer
+POSITION 2 execuder.Executer
+POSITION 3 execuder.Executer
+EXECUTERS execuder.Executer out/artifacts
+BUFFER_SIZE 123
+INPUT src/text.txt
+
+OUTPUT src/text2.txt
+READER_CLASS reader.Reader out/artifacts
+WRITER_CLASS writer.Writter out/artifacts
+POSITION 1 execuder.Executer
+POSITION 2 execuder.Executer
+POSITION 3 execuder.Executer
+EXECUTERS execuder.Executer out/artifacts
+BUFFER_SIZE 123
+INPUT src/text.txt
+
+OUTPUT src/text2.txt
+READER_CLASS reader.Reader out/artifacts
+WRITER_CLASS writer.Writter out/artifacts
+POSITION 1 execuder.Executer
+POSITION 2 execuder.Executer
+POSITION 3 execuder.Executer
+EXECUTERS execuder.Executer out/artifacts
+BUFFER_SIZE 123
+INPUT src/text.txt

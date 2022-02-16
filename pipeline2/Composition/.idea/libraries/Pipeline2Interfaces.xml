@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pipeline2Interfaces">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Pipeline2Interfaces.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
