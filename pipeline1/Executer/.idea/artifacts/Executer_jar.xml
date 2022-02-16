@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Executer:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Executer_jar</output-path>
-    <root id="archive" name="Executer.jar">
-      <element id="module-output" name="Executer" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../pipeline_interface/out/artifacts/pipeline_interface_jar/pipeline_interface.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>

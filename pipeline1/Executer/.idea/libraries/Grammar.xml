@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Grammar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Grammar/out/artifacts/Grammar_jar/Grammar.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
